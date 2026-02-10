@@ -9,3 +9,4 @@
 - [x] Enhance time parsing logic (hh:mm:ss, mm:ss, ss)
 - [x] Verify enhanced time parsing with different formats
 - [x] Add .gitignore file
+- [x] Add README.md (Vietnamese)

@@ -12,6 +12,7 @@ This script will:
 - Automatically name the output file as `outputYYYYMMDD_HHmiSS.mp4` based on the execution time.
 - **Support flexible time formats**: `hh:mm:ss`, `mm:ss`, and total seconds (`ss`).
 - **[NEW] .gitignore**: Ignore `input/` directory and files starting with `output`.
+- **[NEW] README.md**: Vietnamese user guide for the script.
 
 ## Verification Plan
 
